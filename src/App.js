@@ -1,6 +1,6 @@
-import logo from "./logo.svg";
 import "./App.css";
-import { Random } from "./components/ramdom";
+import { Random } from "./components/random";
+import React from "react";
 
 function App() {
   return <Random />;
