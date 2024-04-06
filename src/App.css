@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+input{
+  border: 1px solid black;
+}
+.userInput{
+  display: flex;
+  justify-content: center;
+  
+  
+}
+

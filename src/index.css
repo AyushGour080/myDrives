@@ -14,3 +14,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.centered-div{
+  width: 300px; /* You can adjust the width as needed */
+    margin: 0 auto; /* This centers the div horizontally */
+    text-align: center; /* This centers the content within the div */
+    padding: 20px; /* Add padding as needed */
+}
