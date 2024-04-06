@@ -5,10 +5,10 @@ import { SideBar } from "./components/SideBar";
 
 function App() {
   const [files, setFiles] = useState([
-    { f1: "abc", f2: "efg" },
-    { f1: "abc", f2: "efg" },
-    { f1: "abc", f2: "efg" },
-    { f1: "abc", f2: "efg" },
+    { file1: "abc", file2: "efg" },
+    { file1: "abc", file2: "efg" },
+    { file1: "abc", file2: "efg" },
+    { file1: "abc", file2: "efg" },
   ]);
   return (
     <>

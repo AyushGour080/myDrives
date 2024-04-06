@@ -8,7 +8,7 @@ export const FileData = (props) => {
         className=" fileImage h-21 w-20 "
         src="https://th.bing.com/th/id/OIP.yl502gIVfOAR4EzgTGkFbgAAAA?pid=ImgDet&w=176&h=238&c=7&dpr=1.7"
       />
-      <p>filename -{f.f1}</p>
+      <p>filename -{f.file1}</p>
     </div>
   ));
   return (

@@ -5,7 +5,7 @@ import "./SideBar.css";
 export const SideBar = (props) => {
   const data = props.files.map((f) => (
     <div className=" sider-option flex mx-8 my-6 ">
-      folderName - {f.f2}
+      folderName - {f.file2}
       <img
         className="h-8 w-8 mx-2"
         src="https://th.bing.com/th/id/OIP.5DEFJ19gCTvlUyaQ4f70MAHaHa?rs=1&pid=ImgDetMain"
